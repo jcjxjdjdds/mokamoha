@@ -30,7 +30,7 @@ from pyrogram import (
 ownerID = int("2095495680") #ايدي الادمن 
 api_hash = "84da7f08e87849853b2fa6728e4192a2" #ايبي هاش 
 api_id = 19312827 #ايبي ايدي
-token = "6312351987:AAG9ngTpHaLQKdoenHgDUTaca2eF1_M5KKI" #توكن البوت
+token = "6312351987:AAEyDaxAVX2bQlx18ptpUnlxGv_AZMO1E-0" #توكن البوت
 idchaneel = -1002064490317 #ايدي القناة ضروري ترفع البوت ادمن حت يرسل الجلسات 
 
 
