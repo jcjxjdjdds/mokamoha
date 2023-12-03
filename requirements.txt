@@ -4,7 +4,6 @@ DateTime
 python-telegram-bot==13.12
 telethon
 uptime
-speedtest-cli
 py-cpuinfo
 colorama
 tqdm
